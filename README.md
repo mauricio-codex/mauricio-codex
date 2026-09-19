@@ -1,209 +1,40 @@
 <div align="center">
 
-# 👨‍💻 MAURÍCIO SILVA
+# MAURÍCIO SILVA
 
-### `Building ideas into software.`
+### Full Stack Developer em formação · ADS · Software · IA & Automação
 
-**Análise e Desenvolvimento de Sistemas • Full Stack em formação • Tecnologia & IA**
+**Transformando ideias e problemas reais em soluções de software.**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL)
+<a href="https://github.com/SEU_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mauricio.021wgg@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 Quem sou eu?
+## Sobre mim
 
-Meu nome é **Maurício Silva**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira em desenvolvimento de software.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória como desenvolvedor.
+Meu foco atual está em **desenvolvimento web, programação, APIs, bancos de dados e engenharia de software**, com interesse crescente em **Inteligência Artificial e automação**.
 
-Meu objetivo é simples:
+Gosto de aprender colocando conhecimento em prática: **estudar, construir, testar, corrigir e evoluir**.
 
-> **aprender tecnologia o suficiente para transformar problemas reais em soluções digitais.**
-
-Não quero apenas assistir cursos ou acumular certificados.
-
-Quero **entender → construir → testar → errar → melhorar → publicar.**
-
-Este GitHub é o registro dessa evolução.
+Este perfil reúne meus estudos, projetos e experiências práticas ao longo dessa jornada.
 
 ---
 
-## 🚀 Minha jornada
-
-```text
-          CURIOSIDADE
-               │
-               ▼
-       Lógica de Programação
-               │
-               ▼
-        Desenvolvimento Web
-               │
-               ▼
-           JavaScript
-               │
-               ▼
-             React
-               │
-               ▼
-        Back-end + APIs
-               │
-               ▼
-        Banco de Dados
-               │
-               ▼
-          FULL STACK
-               │
-               ▼
-          IA + AUTOMAÇÃO
-               │
-               ▼
-       PRODUTOS DIGITAIS 🚀
-```
-
----
-
-## 🧠 O que estou construindo
-
-Atualmente estou focado em desenvolver uma base sólida em:
-
-### 🌐 Desenvolvimento Web
-
-```text
-HTML
-CSS
-JavaScript
-React
-Responsividade
-APIs
-```
-
-### ⚙️ Back-end
-
-```text
-Node.js
-Express
-APIs REST
-Autenticação
-CRUD
-```
-
-### 🗄️ Dados
-
-```text
-SQL
-MySQL
-Supabase
-Modelagem de banco
-```
-
-### 🐍 Programação
-
-```text
-Python
-Lógica
-Algoritmos
-Automação
-```
-
-### 🤖 Próximo nível
-
-```text
-Inteligência Artificial
-APIs de IA
-Automação
-n8n
-Agentes de IA
-```
-
----
-
-# 🔥 Projetos
-
-## 🛡️ Acolher
-
-> Tecnologia como ferramenta de informação e apoio.
-
-Projeto acadêmico desenvolvido com foco em **violência doméstica**, buscando transformar informações importantes em uma experiência digital mais acessível.
-
-**Objetivo:** utilizar tecnologia para solucionar um problema real.
-
-`HTML` `CSS` `JavaScript` `Web`
-
----
-
-## 🧪 Laboratório de código
-
-Este repositório também funciona como meu laboratório.
-
-Aqui você encontrará:
-
-* exercícios de lógica;
-* experimentos;
-* pequenos sistemas;
-* APIs;
-* interfaces;
-* automações;
-* estudos;
-* projetos pessoais.
-
-Nem tudo será perfeito.
-
-E essa é justamente a ideia.
-
-**Cada projeto representa uma etapa da minha evolução.**
-
----
-
-# 📊 Minha evolução
-
-### Atualmente
-
-```text
-Lógica             ███████░░░░░░░░
-JavaScript         █████░░░░░░░░░░
-HTML/CSS           ███████░░░░░░░░
-Git/GitHub         █████░░░░░░░░░░
-React              ██░░░░░░░░░░░░░
-Back-end           ██░░░░░░░░░░░░░
-Banco de Dados     ███░░░░░░░░░░░░
-Python             ███░░░░░░░░░░░░
-IA                 ██░░░░░░░░░░░░░
-```
-
-> Essas barras representam minha fase atual de aprendizado, não uma certificação de proficiência.
-
----
-
-# 🎯 Onde quero chegar
-
-```text
-ESTUDAR
-   ↓
-PRATICAR
-   ↓
-CONSTRUIR
-   ↓
-PUBLICAR
-   ↓
-TRABALHAR
-   ↓
-CRIAR PRODUTOS
-```
-
-Meu objetivo profissional é construir experiência em desenvolvimento e, no futuro, unir:
-
-**Software + IA + Automação + Produtos Digitais**
-
----
-
-# 🧰 Minha stack
+## Stack & Tecnologias
 
 <div align="center">
 
@@ -211,116 +42,186 @@ Meu objetivo profissional é construir experiência em desenvolvimento e, no fut
 
 </div>
 
+### Front-end
+
+`HTML` · `CSS` · `JavaScript` · `React`
+
+### Back-end
+
+`Node.js` · `Express` · `REST APIs`
+
+### Banco de dados
+
+`SQL` · `MySQL` · `Supabase`
+
+### Programação
+
+`Python` · `JavaScript` · `Lógica de Programação` · `Algoritmos`
+
+### Ferramentas
+
+`Git` · `GitHub` · `VS Code`
+
+### Explorando
+
+`Inteligência Artificial` · `Automação` · `n8n` · `Cloud`
+
 ---
 
-# 📚 Atualmente estudando
+## Projetos em destaque
 
-### 01 — Fundamentos
+### 🛡️ Acolher
+
+**Projeto acadêmico de tecnologia voltado à informação e apoio em situações de violência doméstica.**
+
+A proposta é utilizar tecnologia para centralizar informações importantes e facilitar o acesso do usuário a recursos e canais de apoio.
+
+**Tecnologias:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 🧪 Estudos & Projetos
+
+Meu GitHub também funciona como um ambiente de aprendizado prático.
+
+Aqui publico:
+
+* exercícios de lógica e algoritmos;
+* aplicações web;
+* APIs;
+* projetos acadêmicos;
+* experimentos com novas tecnologias;
+* automações;
+* estudos de programação;
+* projetos pessoais.
+
+Cada projeto representa uma etapa da minha evolução como desenvolvedor.
+
+---
+
+## Jornada de desenvolvimento
+
+```text
+Fundamentos
+     │
+     ▼
+Lógica & Algoritmos
+     │
+     ▼
+HTML + CSS + JavaScript
+     │
+     ▼
+React
+     │
+     ▼
+APIs + Node.js
+     │
+     ▼
+SQL + Banco de Dados
+     │
+     ▼
+Desenvolvimento Full Stack
+     │
+     ▼
+IA + Automação
+     │
+     ▼
+Produtos e soluções digitais
+```
+
+---
+
+## Atualmente estudando
+
+**01 · Fundamentos**
 
 * Lógica de programação
 * Algoritmos
 * Estruturas de dados
 * Git e GitHub
 
-### 02 — Front-end
+**02 · Front-end**
 
 * HTML
 * CSS
 * JavaScript
 * React
 
-### 03 — Back-end
+**03 · Back-end**
 
 * Node.js
 * Express
 * APIs REST
 * Autenticação
+* CRUD
 
-### 04 — Dados
+**04 · Dados**
 
 * SQL
 * MySQL
 * Supabase
+* Modelagem de dados
 
-### 05 — Próximos passos
+**05 · Próximos passos**
 
-* IA
+* Inteligência Artificial
+* APIs de IA
 * Automação
 * n8n
-* Arquitetura de software
 * Cloud
+* Arquitetura de software
 
 ---
 
-# 💡 Como penso sobre programação
+## Objetivo profissional
+
+Construir uma carreira sólida em desenvolvimento de software, evoluindo continuamente minha capacidade de transformar **problemas reais em soluções digitais**.
+
+No longo prazo, quero combinar:
 
 ```text
-Código não é o objetivo.
-
-Código é a ferramenta.
-```
-
-Quero aprender a programar não apenas para escrever código, mas para conseguir olhar para um problema e pensar:
-
-**"Como eu transformo isso em uma solução?"**
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![Mauricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
-# 🐍 Minha atividade
-
-<div align="center">
-
-![GitHub Snake](https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 🌎 Além do código
-
-Acredito que tecnologia fica mais interessante quando ela resolve **problemas que existem fora do computador**.
-
-Por isso, quero construir projetos que tenham:
-
-```text
-Problema real
-     +
-Tecnologia
-     +
-Experiência do usuário
-     +
-Automação
-     +
+Software
+   +
 IA
-     ↓
-Solução
+   +
+Automação
+   +
+Produtos digitais
 ```
 
 ---
 
-# 📫 Contato
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Filosofia
+
+> **Código é ferramenta. Resolver problemas é o objetivo.**
+
+Busco aprender tecnologia não apenas para escrever código, mas para entender problemas, projetar soluções e transformar ideias em software funcional.
+
+---
+
+## Contato
 
 <div align="center">
 
 **Maurício Silva**
 
+📧 **[mauricio.021wgg@outlook.com](mailto:mauricio.021wgg@outlook.com)**
 
-💼 LinkedIn — [Meu LinkedIn](https://www.linkedin.com/in/maur%C3%ADcio-gon%C3%A7alves-da-silva-programador
-Email)
+💼 **[LinkedIn](https://www.linkedin.com/)**
 
-📧 Email — `mauricio.021wgg@outlook.com`
+🐙 **[GitHub](https://github.com/SEU_USERNAME)**
 
 </div>
 
@@ -328,11 +229,8 @@ Email)
 
 <div align="center">
 
-### 🚀 Em construção.
+### Building. Learning. Improving.
 
-**Este perfil também está.**
-
-⭐ Obrigado por visitar meu GitHub.
+**Obrigado por visitar meu perfil.**
 
 </div>
-
