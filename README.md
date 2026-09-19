@@ -316,11 +316,11 @@ Solução
 
 **Maurício Silva**
 
-💻 GitHub — [@SEU_USERNAME](https://github.com/SEU_USERNAME)
 
-💼 LinkedIn — [Meu LinkedIn](https://linkedin.com/)
+💼 LinkedIn — [Meu LinkedIn](https://www.linkedin.com/in/maur%C3%ADcio-gon%C3%A7alves-da-silva-programador
+Email)
 
-📧 Email — `SEU_EMAIL`
+📧 Email — `mauricio.021wgg@outlook.com`
 
 </div>
 
